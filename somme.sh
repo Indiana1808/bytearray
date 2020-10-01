@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "val0, val1, val2, val3, val4, val5, val6"
-echo "valeur"
+echo "Valeur"
 read val0 
 read val1
 read val2
@@ -27,7 +27,7 @@ sum12=$(expr $sum11 + $sum6)
 
 
 
-echo "checksum1" 
+echo "Checksum1" 
 echo "$val0"
 echo "$sum1"
 echo "$sum2"
@@ -35,7 +35,7 @@ echo "$sum3"
 echo "$sum4"
 echo "$sum5"
 echo "$sum6"
-echo "checksum2"
+echo "Checksum2"
 echo "$val0"
 echo "$sum7"
 echo "$sum8"
