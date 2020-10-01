@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "val0, val1, val2, val3, val4, val5, val6"
-echo "Valeur"
+echo "valeur"
 read val0 
 read val1
 read val2
