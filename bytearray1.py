@@ -10,7 +10,7 @@ def parite(a):
 			print(j,' ','1' in j)
 			if '1' in j:
 				countn = countn + 1
-		print("Nombre de 1 est:", countn, "\n")
+		print("Nombre de 1 est :", countn, "\n")
 		if countn%2==0:
 			resultat.append("1"+j)
 		else:
